@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 launch.json
 tasks.json
-.vscode
+.vscodeit 
